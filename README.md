@@ -18,8 +18,4 @@ O viés de seleção ocorre quando os resultados de um experimento ou estudo sã
 
 No entanto, se continuarmos a fazer perguntas diferentes ou a aplicar diferentes modelos aos dados, eventualmente encontraremos algo que parece interessante puramente por acaso. É por isso que é tão importante entender os conceitos de probabilidade e estatística ao interpretar os resultados de um experimento ou estudo.
 
-<div align="center">
-
-CaraCoroa.jpg
-
-</div>
+<img src="CaraCoroa.jpg" width=500>
