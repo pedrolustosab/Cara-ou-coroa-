@@ -1,2 +1,2 @@
-# Cara-ou-coroa-
+# Cara ou coroa?
 Como entende Bernoulli
